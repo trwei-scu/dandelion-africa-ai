@@ -105,10 +105,10 @@ Potential challenges include:
 ### 9. Team Responsibilities
 
 **Responsibilities**
-| Tess | Data creation and data preparation
-| Terrence| Message filtering and classification 
-| Eric | Anonymization and information extraction
-| All members | Evaluation, testing, and integration 
+- Tess: Data creation and data preparation
+- Terrence: Message filtering and classification
+- Eric: Anonymization and information extraction
+- Everyone: Evaluation, testing, and integration 
 
 ### 10. Cross-Team Discussion
 
